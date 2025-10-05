@@ -82,7 +82,7 @@ AI-Waste-Sorter/
    ```bash
    python3 -m venv venv
    source venv/bin/activate   # On Linux/Mac
-   venv\Scriptsctivate      # On Windows
+   venv\Scripts\activate      # On Windows
    ```
 
 3. Install dependencies:  
