@@ -44,7 +44,7 @@ from ultralytics import YOLO
     #GPIO = MockGPIO()
 
 from PIL import Image
-import requests # Import requests for API calls
+import requests # Import requests for  calls
 import base64
 from dotenv import load_dotenv
 import google.generativeai as genai
@@ -1836,7 +1836,7 @@ def classify_with_gemini(image_np):
     Returns (classification, explanation, item_name)
     """
     load_dotenv()
-    api_key = "AIzaSyCT37RxkpJcsRA4yW13Qqv_Fr036UZtAlA"
+    api_key = "YOUR_GEMINI_API_KEY"
     if not api_key:
         print("Error: GOOGLE_API_KEY environment variable not set.")
         return "Error", "API key not found.", "API key not found # Reverted to gemini-2.0-flash for consistency with the working file."
