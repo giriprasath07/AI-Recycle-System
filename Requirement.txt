@@ -1,0 +1,25 @@
+# Core libraries
+numpy
+opencv-python
+pillow
+requests
+qrcode
+python-dotenv
+google-generativeai
+
+# Machine Learning
+ultralytics
+
+# GUI
+PyQt5
+
+# Raspberry Pi / GPIO / Hardware
+RPi.GPIO
+gpiod
+adafruit-circuitpython-pca9685
+adafruit-circuitpython-motor
+board
+busio
+
+# Optional (only if running without Raspberry Pi, for testing)
+# fake-rpi
