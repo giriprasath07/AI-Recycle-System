@@ -1,5 +1,5 @@
 
-# SortyxNet – AI Waste Sorter  
+#  AI Waste Sorter  
 
 An **AI-powered smart bin system** that uses **YOLOv8 and Google Gemini** for real-time waste classification and sorting.  
 The system integrates **computer vision, generative AI, IoT hardware control, and Firebase cloud services** to automate sustainable waste disposal.  
