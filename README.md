@@ -138,9 +138,9 @@ The system calculates:
 
 ---
 
-## 📷 Screenshots (add later)
+## 📷 Screenshots
 
-*(Add GUI screenshots here: Intro screen, Live camera feed, Classification result screen, Sustainability dashboard)*  
+![Prototype Image](Demo.jpg)
 
 ---
 
