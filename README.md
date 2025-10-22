@@ -127,6 +127,12 @@ python sxauto5.py
 
 ---
 
+## Circuit diagram
+
+![Prototype Image](circuitdiagram.jpg)
+
+---
+
 ## 📈 Sustainability Metrics  
 
 The system calculates:  
