@@ -129,7 +129,7 @@ python sxauto5.py
 
 ## Circuit diagram
 
-![Prototype Image](circuitdiagram.jpg)
+![Prototype Image](circuitdiagram.png)
 
 ---
 
